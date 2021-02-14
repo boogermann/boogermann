@@ -8,7 +8,7 @@ Currently working on a personal project to create a retro gaming ecosystem, comm
 
 My proudest accomplishment was to have one of my projects being feature on major Brazilian media outlets including [Globo], [BBC Brazil] and even international outlets like the [N.Y Times] on a fight against Online Censorship by the Brazilian Government.
 
-![Metrics](https://github.com/boogermann/boogermann/blob/main/github-metrics.svg)
+![Metrics](github-metrics.svg)
 
 #### Qualifications
 
