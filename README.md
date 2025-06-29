@@ -1,94 +1,52 @@
 # 👋 Hello my friend, stay awhile and listen...
 
-I'm Marcus and have spent 20+ years working and tinkering with technology.
+I'm Marcus, a technology enthusiast with over two decades of hands-on experience building solutions that matter. My journey has taken me from startup environments to large-scale systems, always driven by curiosity and the desire to create something meaningful.
 
-I apply my skills (and curiosity) to interesting short and long-term opportunities and have substantive practical experience facilitating cutting-edge solutions with a broad range of skills.
+Currently, I'm pouring my passion into developing a retro gaming ecosystem that celebrates, preserves, and educates people about classic gaming culture through modern technology. It's more than just nostalgia; it's about preserving authentic experiences while making them accessible to modern audiences.
 
-Currently working on a personal project to create a retro gaming ecosystem, community and a digital media delivery service dedicated to the education, evolution and preservation of classic gaming and its legacy.
+## What I Bring to the Table
 
-My proudest accomplishment was to have one of my projects being feature on major Brazilian media outlets including [Globo], [BBC Brazil] and even international outlets like the [N.Y Times] on a fight against Online Censorship by the Brazilian Government.
+**Core Technologies I Work With:**
+
+- **JavaScript & TypeScript**: Building scalable applications with Node.js, real-time systems with WebRTC and Socket.io, and modern frontend experiences
+- **Go**: Building concurrent backend systems, porting legacy applications, and creating reliable services
+- **C/C++**: When performance matters most, especially for embedded applications and system-level programming
+- **Python**: Automation, tooling, scripting, and CLI development that keeps systems running smoothly
+- **Hardware Development**: FPGA design with SystemVerilog, microcontroller programming, and IoT solutions
+- **DevOps & Automation**: Streamlining deployments, infrastructure as code, monitoring with Prometheus/Grafana, and building reliable CI/CD pipelines
+- **Full-Stack Development**: From database design to user interfaces, including UX/UI design and user experience optimization
 
 ![Metrics](github-metrics.svg)
 
-#### Qualifications
+**What Sets Me Apart:**
 
-* Ability to work quickly and efficiently in a start-up environment, making solid architectural decisions and maintaining high engineering standards.
-* Champion teamwork, re-use, knowledge sharing, economies of scale, and promote increased use of Shared Services capabilities across all businesses.
-* Recognized for ability to gain the confidence of executive peers and lead technology teams to achieve new levels of accomplishment.
-* Proven leader, mentor and instructor to colleagues and team members in both technical and process related areas.
-* Adept at leveraging technology to achieve better business outcomes, minimize risk and enhance value.
-* Advocate for writing clean, well-documented, well-commented, modular and reusable code using good design patterns that can scale and be easily maintained over time.
-* Proven ability to leverage full-stack expertise to build interactive and user-centered experiences that can scale.
-* Aptitude and willingness to learn and implement new technologies that meet and exceed the needs of the business.
+- Built and scaled infrastructure for a blog network serving 40+ million monthly views with a distributed team of 100+ contributors, tackling real-world challenges around server scaling, CDN optimization, and database performance under heavy load
+- I build with the mindset that code is read far more often than it's written. Clean, modular, and well-documented systems aren't just nice to have; they're essential for anything that needs to scale and evolve
+- I thrive in environments where quick architectural decisions matter, but always with an eye toward long-term maintainability
+- I believe in automating everything that gets repeated more than twice, freeing teams to focus on solving actual problems
 
-#### IT Disciplines
+## Real-World Experience
 
-* Solutions Architecture
-* Front-end
-* Back-end
-* UI/UX Design
-* Infrastructure
-* Cloud Computing
-* Virtualization
-* Business Analysis and Intelligence
+My work has always centered around solving problems that matter. Whether it was diagnosing why database queries were bringing servers to their knees during peak traffic, implementing Redis caching strategies that actually reduced load instead of just moving it around, or figuring out why a CDN configuration worked perfectly in testing but failed spectacularly in production, I've learned to dig deep and understand the actual problem before jumping to solutions.
 
-#### Interests and Hobbies
+The blog network taught me that scaling isn't just about adding more servers. Sometimes it's about rewriting a single poorly optimized query that was causing cascading failures. Sometimes it's about implementing smart caching layers with Redis to handle read-heavy workloads. The technical solution is only as good as your understanding of what's actually breaking.
 
-* User Interface Design
-* Vintage Computers and Retro Games
-* Reverse Engineering
-* Photography
-* Programming
-* Cinematography
-* Machine Learning/A.I.
-* Psychology
-* FPGA/SBC/IOT/MCU
-* Geopolitics
-* Cryptography
-* Legacy Technologies
+Beyond the blog network, I've built SaaS platforms where downtime meant lost revenue and angry customers. These experiences taught me that the most elegant code means nothing if it doesn't solve the actual business problem.
 
-#### Languages, Tools and Skills
+## Beyond the Code
 
-**Front-end**
+Away from programming, I'm usually taking apart old computers to see how they tick, experimenting with photography projects, or diving too deep into cryptography papers at ungodly hours. The hardware tinkering feeds directly into the retro gaming work, but honestly, I just enjoy understanding how things work at a fundamental level.
 
-* HTML5, CSS3/SASS, JavaScript/ECMAScript, Vue.js, Vuex, Express, Socket.io, WebRTC, JSON, Bootstrap, Semantic UI, Bulma, Material Design, Kendo UI, Tailwind CSS, Wordpress, WooCommerce, Ghost
-* Testing (Jest, Karma, Mocha, PhantomJS, PHPUnit), Authentication/Authorization (JWT, OAuth, Passaport.js, SAML, OpenID)
-* Hybrid Desktop/Mobile (Electron, Apache Cordova, Ionic, Framework7, Appcelerator)
+## Technical Toolkit
 
-**Back-end**
+- **Languages & Frameworks**: JavaScript/TypeScript, Node.js, Go, C/C++, Python, HTML5/CSS3, Vue.js, Express
+- **Real-time & APIs**: WebRTC, Socket.io, GraphQL, REST APIs, WebSocket
+- **Hardware & Embedded**: SystemVerilog/Verilog, FPGA development, microcontrollers, embedded Linux
+- **DevOps & Infrastructure**: Docker, Kubernetes, CI/CD Pipelines (GitHub and GitLab), Ansible, Prometheus, Grafana, cloud platforms (AWS, GCP)
+- **Database & Messaging**: PostgreSQL, Redis, RabbitMQ, MySQL/MariaDB
+- **Design & UX**: UI/UX design, prototyping, Adobe Creative Suite (Photoshop, Illustrator, After Effects), Figma
+- **Development Practices**: Clean architecture, automated testing, infrastructure as code, monitoring and observability
 
-* Go, TypeScript, Node.js, WebSocket, PostgreSQL, REST APIs, GraphQL, RabbitMQ, Redis, Function-as-a-Service (FaaS), MySQL/MariaDB, PHP, Apache Solr, OAuth, OpenID, SAML, Keycloak
+## Let's Connect
 
-**UI/UX, Graphic and Motion Design**
-
-* Interface Design, Prototyping, Information Architecture, Usability, Interaction Design, User Research, User Stories, Personas
-* Adobe Creative Suite (Photoshop, Illustrator, Acrobat, inDesign, AfterFX, Premiere, Media Encoder), Sound Forge, Sony Vegas Pro, Final Cut Pro
-* Adobe XD, Axure RP, Balsamiq and Mockplus
-
-**DevOps/Infrastructure/Cluster and Cloud Computing**
-
-* Docker, Docker Swarm, GitLab, Jenkins, Naggios, Prometheus, Grafana, Consul, Ansible, Papertrail
-* Linux (Debian/Ubuntu/RHEL/CentOS/Alpine/Arch) Windows Server (2003,2008), VMware ESXi, MacOS Server
-* Træfik, Caddy, Apache, NGINX, PHP-FPM, Node.js, MySQL/MariaDB, PostgreSQL, Memcached, BIND/DNS, ownCloud, OnlyOffice, Memcache, Varnish, HAProxy, Postfix, Revive Adserver, Dovecot, Red5, Monit, PM2, Rocket.chat, Mattermost
-* Amazon Web Services (EC2, S3, RDS, CloudFront, DynamoDB), Google Cloud Platform, Digital Ocean, Heroku
-
-**Business Analysis/Intelligence**
-
-* Business Process Modelling (BPM), MOST (Mission, Objective, Strategy and Tactics) and SWOT (Strength, Weakness, Opportunities and Threats) Analysis, CATWOE (Clients, Actors, Transformation, World View, Owner and Environmental Constraints)
-* Requirement Analysis and Non-functional Requirement Analysis, Disaster Recovery Procedures and Plans
-* Use Case Modelling, Product Marketing and Community Development
-
-**Methodologies and Paradigms**
-
-* Object Oriented Programming (OOP), Functional Programming (FP), Service-Oriented Analysis and Design (SOAD)
-* Test-Driven Development (TDD), Rapid Application Development (RAD) and Feature-Driven Development (FDD)
-* RESTful Architectural Principles, Event-Driven Programming and Agile Software Development
-
-**Limited experiences that worth mentions**
-
-* C99/11 (C standard revision), Embedded Computers, Verilog, FPGA Development, Embedded Linux (Yocto and Buildroot), Hardware Development (MCU/IoT), Web Content Accessibility Guidelines (WCAG), React, Python, Perl, Nullsoft Scriptable Install System (NSIS)
-
-[N.Y Times]: https://web.archive.org/web/20170527041253/https://www.nytimes.com/2017/05/26/world/americas/brazil-michel-temer-corruption.html
-[BBC Brazil]: https://web.archive.org/web/20190508234446/https://www.bbc.com/portuguese/salasocial-39402172
-[Globo]: https://globoplay.globo.com/v/5900877/
-
+I'm currently focused on my own projects but open to interesting freelance and contract opportunities. Feel free to explore my repositories and reach out if something catches your eye or if you'd like to discuss potential collaborations!
